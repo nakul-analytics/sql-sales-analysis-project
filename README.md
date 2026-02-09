@@ -1,15 +1,22 @@
-# SQL Sales Analysis Project
+SQL Sales Analysis Project
 
-This project contains SQL queries for sales analysis using MySQL.
+Tools: SQL (MySQL/PostgreSQL), Excel  
+Goal: Analyze sales data and find business insights.
 
-Tasks performed:
-- Created database and tables
-- Inserted sales data
-- Total revenue by city
-- Product-wise revenue
-- JOIN between customers and sales
+Key Insights:
+- Top selling products
+- Monthly revenue trend
+- Best performing region
+- Customer behavior
 
-Tools used:
-MySQL, SQL
+Skills Used:
+- JOIN
+- GROUP BY
+- Aggregate functions
+- Subqueries
+- Data cleaning
 
-This is part of my Data Analyst journey.
+Project Files:
+- dataset.csv
+- queries.sql
+- insights.txt
